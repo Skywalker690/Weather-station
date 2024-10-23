@@ -21,5 +21,5 @@ This is a simple weather station project that reads temperature and humidity dat
 
 ## Project Structure:
 - `server.js`: The Node.js server code.
-- `public/index.html`: The front-end HTML page.
+- `index.html`: The front-end HTML page.
 
